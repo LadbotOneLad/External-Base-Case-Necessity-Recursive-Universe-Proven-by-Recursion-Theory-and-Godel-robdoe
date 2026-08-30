@@ -2,7 +2,10 @@
 This proof was developed through independent analysis of Gödel's theorems, 
 recursion theory, and quantum mechanics. Language clarity and structure 
 were refined with AI language assistance. The logical chain, mathematical 
-framework, and proof structure are original work. AI only implements.
+framework, and proof structure are original work. AI only implements.Also this proof uses Gödel syntactic notion for proving as this all the proof requires as its working off a Gödelian system.
+
+Public stress-test: r/logic. Objections stayed at the premises. The chain itself was not refuted.:
+[](https://www.reddit.com/r/logic/comments/1vt6438/universe_is_incomplete_recursion_and_anchored_in/)
 
 # External Base Case Necessity: Recursive Universe that is incomplete and needs a anchor, proven.
 
